@@ -1,13 +1,26 @@
 {
   "files": {
-    "main.css": "/TextAnalyzer-React/static/css/main.359a36d3.css",
-    "main.js": "/TextAnalyzer-React/static/js/main.683e2436.js",
-    "index.html": "/TextAnalyzer-React/index.html",
-    "main.359a36d3.css.map": "/TextAnalyzer-React/static/css/main.359a36d3.css.map",
-    "main.683e2436.js.map": "/TextAnalyzer-React/static/js/main.683e2436.js.map"
+    "main.css": "/shubhamjaiswar43/github.io/Foodess-React/static/css/main.ba5087b9.css",
+    "main.js": "/shubhamjaiswar43/github.io/Foodess-React/static/js/main.2bad3e99.js",
+    "static/js/787.7e4dddec.chunk.js": "/shubhamjaiswar43/github.io/Foodess-React/static/js/787.7e4dddec.chunk.js",
+    "static/media/service3.png": "/shubhamjaiswar43/github.io/Foodess-React/static/media/service3.da78cf918e2d180b254f.png",
+    "static/media/bg2.png": "/shubhamjaiswar43/github.io/Foodess-React/static/media/bg2.701c52605e231eb8ff57.png",
+    "static/media/service1.png": "/shubhamjaiswar43/github.io/Foodess-React/static/media/service1.b45bdf9df06685973d6c.png",
+    "static/media/bg1.jpg": "/shubhamjaiswar43/github.io/Foodess-React/static/media/bg1.59c4f6330ee53460952e.jpg",
+    "static/media/client4.png": "/shubhamjaiswar43/github.io/Foodess-React/static/media/client4.9d529bd68c252c08827e.png",
+    "static/media/client3.png": "/shubhamjaiswar43/github.io/Foodess-React/static/media/client3.840aed0a02b22087a748.png",
+    "static/media/logoPng.png": "/shubhamjaiswar43/github.io/Foodess-React/static/media/logoPng.42b2013c43d7eef8046a.png",
+    "static/media/Service2.webp": "/shubhamjaiswar43/github.io/Foodess-React/static/media/Service2.fdd3fd85dde09123ee24.webp",
+    "static/media/client1.png": "/shubhamjaiswar43/github.io/Foodess-React/static/media/client1.aa586c5ed058b85c0239.png",
+    "static/media/client2.png": "/shubhamjaiswar43/github.io/Foodess-React/static/media/client2.91586d3e1b456ff6a569.png",
+    "static/media/bg3.jpg": "/shubhamjaiswar43/github.io/Foodess-React/static/media/bg3.88cebf6db494f135f229.jpg",
+    "index.html": "/shubhamjaiswar43/github.io/Foodess-React/index.html",
+    "main.ba5087b9.css.map": "/shubhamjaiswar43/github.io/Foodess-React/static/css/main.ba5087b9.css.map",
+    "main.2bad3e99.js.map": "/shubhamjaiswar43/github.io/Foodess-React/static/js/main.2bad3e99.js.map",
+    "787.7e4dddec.chunk.js.map": "/shubhamjaiswar43/github.io/Foodess-React/static/js/787.7e4dddec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.359a36d3.css",
-    "static/js/main.683e2436.js"
+    "static/css/main.ba5087b9.css",
+    "static/js/main.2bad3e99.js"
   ]
 }
